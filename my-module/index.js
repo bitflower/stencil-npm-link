@@ -1,0 +1,4 @@
+
+exports.Constants = {
+    test: 'bla'
+};
