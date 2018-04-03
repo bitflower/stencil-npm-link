@@ -9,3 +9,7 @@ Steps to reproduce:
 5. `npm install`
 6. `npm link @my-company/my-module`
 7. `npm run dev`
+
+# Error
+
+![https://github.com/bitflower/stencil-npm-link/raw/master/error.png](https://github.com/bitflower/stencil-npm-link/raw/master/error.png)
